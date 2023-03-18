@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Madokkaebi / Yuri Sodré Bastos (21 years old)
-- 👀 I’m interested in Game Developing and Software Engineering in general
+- 👋 Hi, I’m  Yuri Sodré Bastos (22 years old)
+- 👀 I’m interested in Game Development, Web Development and Software Engineering in general
 - 🌱 I’m currently studying Computer Science at UNIFESP - São José dos Campos, a Federal University in Brazil. 
 - 💞️ I’m looking to collaborate on Games, Software that help people and learn more on programming and the job market.
-- 📫 Email: yurisobastos@hotmail.com
+- 📫 Email: yuri.bastos@unifesp.br
