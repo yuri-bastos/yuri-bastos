@@ -3,12 +3,12 @@
 - 🌱 Atualmente cursando Bacharelado em Ciência e Tecnologia / Ciência da Computação na UNIFESP
 - 💞️ Procuro colaborar em jogos e software que ajude as pessoas e aprender mais sobre o mercado de trabalho
 - 📫 Email: yuri.bastos@unifesp.br
-
-Atuei como programador nos jogos:
-
-https://cegi.unifesp.br/biblioteca-do-dragao (Jogo educativo de sequências numéricas) 
-https://cegi.unifesp.br/cidade-dos-sinais (Jogo educativo de Libras)
-
-Atuei como tester no jogo:
-
-https://cegi.unifesp.br/matemagica
+<br>
+Atuei como programador nos jogos:<br>
+<br>
+https://cegi.unifesp.br/biblioteca-do-dragao (Jogo educativo de sequências numéricas)<br>
+https://cegi.unifesp.br/cidade-dos-sinais (Jogo educativo de Libras)<br>
+<br>
+Atuei como tester no jogo:<br>
+<br>
+https://cegi.unifesp.br/matemagica<br>
