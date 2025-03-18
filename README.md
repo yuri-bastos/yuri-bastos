@@ -1,14 +1,15 @@
-- 👋 Meu nome é Yuri Sodré Bastos (22 anos)
-- 👀 Tenho interesse Game Development, Web Development e Engenharia de Software em geral
-- 🌱 Atualmente cursando Bacharelado em Ciência e Tecnologia / Ciência da Computação na UNIFESP
-- 💞️ Procuro colaborar em jogos e software que ajude as pessoas e aprender mais sobre o mercado de trabalho
-- 📫 Email: yuri.bastos@unifesp.br
+- 👋 My name is Yuri Bastos (24y)
+- 👀 I'm interested in Game Development, Web Development, Desktop Applications and Software Engineering in general
+- 🌱 Bachelor in Computer Science and Bachelor in Science and Technology at UNIFESP
+- 📫 Email: yurisobastos@gmail.com
+
 <br>
-Atuei como programador nos jogos:<br>
+Worked as developer on the following games:<br>
 <br>
-https://cegi.unifesp.br/biblioteca-do-dragao (Jogo educativo de sequências numéricas)<br>
-https://cegi.unifesp.br/cidade-dos-sinais (Jogo educativo de Libras)<br>
+https://cegi.unifesp.br/biblioteca-do-dragao (Math Educational Game)<br>
+https://cegi.unifesp.br/cidade-dos-sinais (Brazilian Sign Language Educational Game)<br>
+
 <br>
-Atuei como tester no jogo:<br>
+Worked as tester on:<br>
 <br>
 https://cegi.unifesp.br/matemagica<br>
