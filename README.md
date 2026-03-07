@@ -1,4 +1,4 @@
-- 👋 My name is Yuri Bastos (24y)
+- 👋 My name is Yuri Bastos (25y)
 - 👀 I'm interested in Game Development, Web Development, Desktop Applications and Software Engineering in general
 - 🌱 Bachelor in Computer Science and Bachelor in Science and Technology at UNIFESP
 - 📫 Email: yurisobastos@gmail.com
